@@ -82,12 +82,12 @@
 
             <div style="padding: 15px;">
 
-                <label>Speciality</label>
-                <input type="text" style="color:black;" name="Speciality" placeholder="write the Speciality" required="">
+              <label>speciality</label>
+              <input type="text" style="color:black;" name="speciality" placeholder="write the speciality" required="">
 
-            </div>
+          </div>
 
-
+            
 
                 <div style="padding: 15px;">
 

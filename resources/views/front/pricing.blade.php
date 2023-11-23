@@ -34,7 +34,7 @@
 	            
 		            <ul class="pricing-text mb-5">
 		              <li><span class="fa fa-check mr-2"></span>5 Dog Walk</li>
-		              <li><span class="fa fa-check mr-2"></span>3 Vet Visit</li>
+		              <li><span class="fa fa-check mr-2"></span>4 Vet Visit</li>
 		              <li><span class="fa fa-check mr-2"></span>3 Pet Spa</li>
 		              <li><span class="fa fa-check mr-2"></span>Free Supports</li>
 		            </ul>
@@ -51,9 +51,9 @@
 		            <span class="price"><sup>$</sup> <span class="number">79</span> <sub>/mos</sub></span>
 		            
 		            <ul class="pricing-text mb-5">
-		              <li><span class="fa fa-check mr-2"></span>5 Dog Walk</li>
-		              <li><span class="fa fa-check mr-2"></span>3 Vet Visit</li>
-		              <li><span class="fa fa-check mr-2"></span>3 Pet Spa</li>
+		              <li><span class="fa fa-check mr-2"></span>10 Dog Walk</li>
+		              <li><span class="fa fa-check mr-2"></span>8 Vet Visit</li>
+		              <li><span class="fa fa-check mr-2"></span>6 Pet Spa</li>
 		              <li><span class="fa fa-check mr-2"></span>Free Supports</li>
 		            </ul>
 
@@ -69,9 +69,9 @@
 		            <span class="price"><sup>$</sup> <span class="number">109</span> <sub>/mos</sub></span>
 		            
 		            <ul class="pricing-text mb-5">
-		              <li><span class="fa fa-check mr-2"></span>5 Dog Walk</li>
-		              <li><span class="fa fa-check mr-2"></span>3 Vet Visit</li>
-		              <li><span class="fa fa-check mr-2"></span>3 Pet Spa</li>
+		              <li><span class="fa fa-check mr-2"></span>16 Dog Walk</li>
+		              <li><span class="fa fa-check mr-2"></span>12 Vet Visit</li>
+		              <li><span class="fa fa-check mr-2"></span>9 Pet Spa</li>
 		              <li><span class="fa fa-check mr-2"></span>Free Supports</li>
 		            </ul>
 
@@ -89,7 +89,7 @@
     		<div class="row d-md-flex justify-content-end">
     			<div class="col-md-12 col-lg-6 half p-3 py-5 pl-lg-5 ftco-animate">
     				<h2 class="mb-4">Make An Appointment</h2>
-    				<form action="{{url('appointment')}}" class="appointment" method="POST">
+    				<form action="{{url('pricing')}}" class="appointment" method="POST">
     					
 						@csrf
 
@@ -99,7 +99,7 @@
 			    					<div class="form-field">
 	          					<div class="select-wrap">
 	                      <div class="icon"><span class="fa fa-chevron-down"></span></div>
-	                      <select name="services" id="" class="form-control">
+	                      <select name="speciality" id="" class="form-control">
 	                      	<option value="">Select services</option>
 	                        <option value="">Cat Sitting</option>
 	                        <option value="">Dog Walk</option>
@@ -115,6 +115,12 @@
 									<div class="form-group">
 			              <input type="text" name="name" class="form-control" placeholder="Your Name">
 			            </div>
+
+						{{-- <div class="col-md-6">
+							<div class="form-group">
+				  <input type="text" name="speciality" class="form-control" placeholder="speciality">
+				</div> --}}
+
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">

@@ -40,6 +40,10 @@
       @if (Route::has('login'))
       @auth
       
+
+      <li class="nav-item"><a href="{{url('myappointment')}}" style="background-color: greenyellow; color: white;" class="nav-link">My Appointment</a></li>
+
+
       <x-app-layout>
 
       </x-app-layout>

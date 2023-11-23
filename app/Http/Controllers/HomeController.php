@@ -65,7 +65,7 @@ public function appointment(Request $request)
 
   $data = new Appointment;
 
-  $data->services=$request->services;
+  $data->speciality=$request->speciality;
 
   $data->name=$request->name;
 
@@ -77,8 +77,8 @@ public function appointment(Request $request)
 
   $data->message=$request->message;
 
-  $data->status='In progress';
 
+  $data->status='In progress';
   if(Auth::id())
   {
 
@@ -93,6 +93,34 @@ public function appointment(Request $request)
 } 
 
 
+public function myappointment()
+{
+  if(Auth::id())
+  {
+
+    if(Auth::user()->usertype==0)
+    {
+
+      $userid=Auth::user()->id;
+
+      $appoint=appointment::where('user_id',$userid)->get();
+   
+       return view('user.my_appointment',compact('appoint'));
+    }
+
+  
+
+  }
+else
+
+{
+  return redirect()->back();
+}
+
+
+}
+
+
 public function getItem()
 {
   $doctor = doctor::all();
@@ -100,6 +128,24 @@ public function getItem()
   return view('front.vet',compact('doctor'));
 
 }
+
+public function cancel_appoint($id)
+{
+
+    $data=appointment::find($id);
+    $data->delete();
+    return redirect()->back();
+}
+
+
+public function getappointment()
+{
+  $doctor = doctor::all();
+
+  return view('front.pricing',compact('doctor'));
+
+}
+
 
 }
 
