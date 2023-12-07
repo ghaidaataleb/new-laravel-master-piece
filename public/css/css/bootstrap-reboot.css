@@ -14,10 +14,17 @@
 html {
   font-family: sans-serif;
   line-height: 1.15;
+<<<<<<< HEAD
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent; }
+=======
+  webkit-text-size-adjust: 100%;
+  ms-text-size-adjust: 100%;
+  ms-overflow-style: scrollbar;
+  webkit-tap-highlight-color: transparent; }
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 
 @-ms-viewport {
   width: device-width; }

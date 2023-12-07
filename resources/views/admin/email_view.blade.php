@@ -4,6 +4,8 @@
 <html lang="en">
   <head>
     <!-- Required meta tags -->
+
+    <base href="/public">
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -58,23 +60,30 @@
   
             @endif
 
-        <form action="{{url('upload_doctor')}}" method="POST" enctype="multipart/form-data">
+        <form action="{{url('sendemail',$data->id)}}" method="POST" >
 
           @csrf
 
         <div style="padding: 15px;">
 
-        <label>Doctor Name</label>
-        <input type="text" style="color:black;" name="name" placeholder="write the name" required="">
+        <label>Greeting</label>
+        <input type="text" style="color:black;" name="greeting"  required="">
         
         </div>
 
 
+        <div style="padding: 15px;">
+
+            <label>Body </label>
+            <input type="text" style="color:black;" name="body" required="">
+            
+            </div>
+
 
         <div style="padding: 15px;">
 
-            <label>Phone </label>
-            <input type="number" style="color:black;" name="number" placeholder="write the number">
+            <label>Action Text</label>
+            <input type="text" style="color:black;" name="actiontext" required="">
             
             </div>
 
@@ -82,27 +91,24 @@
 
             <div style="padding: 15px;">
 
-<<<<<<< HEAD
-                <label>Speciality</label>
-                <input type="text" style="color:black;" name="Speciality" placeholder="write the Speciality" required="">
+                <label>Action Url</label>
+                <input type="text" style="color:black;" name="actionurl" required="">
+                
+                </div>
 
-            </div>
 
-
-=======
-              <label>speciality</label>
-              <input type="text" style="color:black;" name="speciality" placeholder="write the speciality" required="">
-
-          </div>
-
-            
->>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 
                 <div style="padding: 15px;">
 
-                    <label>Doctor Image</label>
-                    <input type="file" name="file">
+                    <label>End Part</label>
+                    <input type="text" style="color:black;" name="endpart" required="">
+                    
                     </div>
+
+
+            
+
+               
 
 
                     <div style="padding: 15px;">

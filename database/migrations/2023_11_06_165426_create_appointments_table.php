@@ -15,7 +15,11 @@ return new class extends Migration
     {
         Schema::create('appointments', function (Blueprint $table) {
             $table->id();
+<<<<<<< HEAD
             $table->string('services')->nullable();
+=======
+            $table->string('speciality')->nullable();
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
             $table->string('name')->nullable();
             $table->string('vechile_num')->nullable();
             $table->string('date')->nullable();

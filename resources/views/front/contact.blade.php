@@ -54,7 +54,11 @@
 				        			<span class="fa fa-paper-plane"></span>
 				        		</div>
 				        		<div class="text">
+<<<<<<< HEAD
 					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+=======
+					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@Pet-Sitting.com</a></p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 					          </div>
 				          </div>
 								</div>

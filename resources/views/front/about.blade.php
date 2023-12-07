@@ -33,28 +33,44 @@
 	    					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-stethoscope"></span></div>
 	    					<div class="text pl-3">
 	    						<h4>Care Advices</h4>
+<<<<<<< HEAD
 	    						<p>Far far away, behind the word mountains, far from the countries.</p>
+=======
+	    						<p>advice may cover topics such as: vaccinations,nutrition, dental care ,grooming and more</p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 	    					</div>
 	    				</div>
 	    				<div class="col-md-6 services-2 w-100 d-flex">
 	    					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-customer-service"></span></div>
 	    					<div class="text pl-3">
 	    						<h4>Customer Supports</h4>
+<<<<<<< HEAD
 	    						<p>Far far away, behind the word mountains, far from the countries.</p>
+=======
+	    						<p>can establish strong customer support that building trust and long-term relationships with pet owners.</p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 	    					</div>
 	    				</div>
 	    				<div class="col-md-6 services-2 w-100 d-flex">
 	    					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-emergency-call"></span></div>
 	    					<div class="text pl-3">
 	    						<h4>Emergency Services</h4>
+<<<<<<< HEAD
 	    						<p>Far far away, behind the word mountains, far from the countries.</p>
+=======
+	    						<p>crucial for addressing urgent medical situations and providing immediate care to pets in distress.</p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 	    					</div>
 	    				</div>
 	    				<div class="col-md-6 services-2 w-100 d-flex">
 	    					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-veterinarian"></span></div>
 	    					<div class="text pl-3">
 	    						<h4>Veterinary Help</h4>
+<<<<<<< HEAD
 	    						<p>Far far away, behind the word mountains, far from the countries.</p>
+=======
+	    						<p>Is at the core of our clinic mission,  aiming to provide comprehensive care.</p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 	    					</div>
 	    				</div>
 	    			</div>
@@ -69,7 +85,11 @@
           <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 text-center">
               <div class="text">
+<<<<<<< HEAD
                 <strong class="number" data-number="40">0</strong>
+=======
+                <strong class="number" data-number="40">1</strong>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
               </div>
               <div class="text">
               	<span>Customer</span>
@@ -79,7 +99,11 @@
           <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 text-center">
               <div class="text">
+<<<<<<< HEAD
                 <strong class="number" data-number="850">0</strong>
+=======
+                <strong class="number" data-number="850">1</strong>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
               </div>
               <div class="text">
               	<span>Professionals</span>
@@ -89,7 +113,11 @@
           <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 text-center">
               <div class="text">
+<<<<<<< HEAD
                 <strong class="number" data-number="15">0</strong>
+=======
+                <strong class="number" data-number="15">1</strong>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
               </div>
               <div class="text">
               	<span>Products</span>
@@ -99,7 +127,11 @@
           <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18 text-center">
               <div class="text">
+<<<<<<< HEAD
                 <strong class="number" data-number="20">0</strong>
+=======
+                <strong class="number" data-number="20">1</strong>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
               </div>
               <div class="text">
               	<span>Pets Hosted</span>
@@ -128,7 +160,11 @@
     			<div class="col-lg-6">
     				<div class="heading-section mb-5 mt-5 mt-lg-0">
 	            <h2 class="mb-3">Frequently Asks Questions</h2>
+<<<<<<< HEAD
 	            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+=======
+	            <p>Here, the most popular questions that the pet owners may asking for.</p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
     				</div>
     				<div id="accordion" class="myaccordion w-100" aria-multiselectable="true">
 						  <div class="card">
@@ -143,11 +179,19 @@
 						    <div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
 						      <div class="card-body py-3 px-0">
 						      	<ol>
+<<<<<<< HEAD
 						      		<li>Far far away, behind the word mountains</li>
 						      		<li>Consonantia, there live the blind texts</li>
 						      		<li>When she reached the first hills of the Italic Mountains</li>
 						      		<li>Bookmarksgrove, the headline of Alphabet Village</li>
 						      		<li>Separated they live in Bookmarksgrove right</li>
+=======
+						      		<li>Dogs respond well to positive reinforcement,Reward good behavior with treats.</li>
+						      		<li>Keep training sessions short and focused to maintain your dog's interest.</li>
+						      		<li>Expose your dog to different people to promote positive behavior.</li>
+						      		<li>Dogs need physical and mental stimulation, Regular play and exercise.</li>
+						      		<li>To Stay: Use a hand signal along with the verbal command.</li>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 						      	</ol>
 						      </div>
 						    </div>
@@ -165,11 +209,19 @@
 						    <div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
 						      <div class="card-body py-3 px-0">
 						      	<ol>
+<<<<<<< HEAD
 						      		<li>Far far away, behind the word mountains</li>
 						      		<li>Consonantia, there live the blind texts</li>
 						      		<li>When she reached the first hills of the Italic Mountains</li>
 						      		<li>Bookmarksgrove, the headline of Alphabet Village</li>
 						      		<li>Separated they live in Bookmarksgrove right</li>
+=======
+						      		<li>Schedule routine check-ups and vaccinations.</li>
+						      		<li>Spend quality time playing and bonding with your pet.</li>
+						      		<li>Remove potential hazards and toxic substances.</li>
+						      		<li>Feed your pet a balanced and nutritious diet.</li>
+						      		<li>Brush your pet's coat regularly.</li>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 						      	</ol>
 						      </div>
 						    </div>
@@ -187,11 +239,19 @@
 						    <div class="collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingTwo">
 						      <div class="card-body py-3 px-0">
 						      	<ol>
+<<<<<<< HEAD
 						      		<li>Far far away, behind the word mountains</li>
 						      		<li>Consonantia, there live the blind texts</li>
 						      		<li>When she reached the first hills of the Italic Mountains</li>
 						      		<li>Bookmarksgrove, the headline of Alphabet Village</li>
 						      		<li>Separated they live in Bookmarksgrove right</li>
+=======
+						      		<li>Ear Cleaning:Check your pet's ears regularly for dirt, wax, or signs of infection.</li>
+						      		<li>Nail Trimming:Keep your pet's nails trimmed to a comfortable length.</li>
+						      		<li>Bathing:Use pet-friendly shampoos to avoid skin irritation.</li>
+						      		<li>Haircuts:Some breeds require regular haircuts (e.g., poodles, shih tzus).</li>
+						      		<li>Dental Care:Brush your pet's teeth regularly to prevent dental issues.</li>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 						      	</ol>
 						      </div>
 						    </div>
@@ -208,7 +268,11 @@
 						    </div>
 						    <div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingTwo">
 						      <div class="card-body py-3 px-0">
+<<<<<<< HEAD
 						      	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+=======
+						      	<p>Patience and Calm Demeanor,Understanding of different breeds and their specific needs,Reporting any concerns or issues promptly and more depending on the nature of the pet-sitting job, the types of pets involved, and the preferences of the pet owners.</p>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 						      </div>
 						    </div>
 						  </div>
@@ -233,12 +297,21 @@
                 <div class="testimony-wrap py-4">
                 	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></span></div>
                   <div class="text">
+<<<<<<< HEAD
                     <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                     	<div class="pl-3">
 		                    <p class="name">Roger Scott</p>
 		                    <span class="position">Marketing Manager</span>
+=======
+                    <p class="mb-4">"I appreciate the convenience the website offers for prescription refills and appointment scheduling. The clinic's attention to detail in the care of our aging cat was comforting. Thank you for the professional service!".</p>
+                    <div class="d-flex align-items-center">
+                    	<div class="user-img" style="background-image: url(images/download.jpeg)"></div>
+                    	<div class="pl-3">
+		                    <p class="name">Ramez Mostafa</p>
+		                    <span class="position">Lawyer</span>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 		                  </div>
 	                  </div>
                   </div>
@@ -248,6 +321,7 @@
                 <div class="testimony-wrap py-4">
                 	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></span></div>
                   <div class="text">
+<<<<<<< HEAD
                     <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
@@ -299,6 +373,59 @@
                     	<div class="pl-3">
 		                    <p class="name">Roger Scott</p>
 		                    <span class="position">Marketing Manager</span>
+=======
+                    <p class="mb-4">"Great experience from start to finish. The website's layout is intuitive, and it's evident the clinic values pet wellness. The grooming services exceeded our expectations. Our dog looks and feels fantastic and comfort!".</p>
+                    <div class="d-flex align-items-center">
+                    	<div class="user-img" style="background-image: url(images/person_4.jpg)"></div>
+                    	<div class="pl-3">
+		                    <p class="name">Hady Ismaiell</p>
+		                    <span class="position">Civil Engineer</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></span></div>
+                  <div class="text">
+                    <p class="mb-4">"As a first-time pet owner, the website provided valuable resources. The clinic staff was patient in guiding us through vaccinations and preventive care. The genuine love for animals at this clinic is palpable.".</p>
+                    <div class="d-flex align-items-center">
+                    	<div class="user-img" style="background-image: url(images/OIP.jpeg)"></div>
+                    	<div class="pl-3">
+		                    <p class="name">Abdullah Sultan</p>
+		                    <span class="position">High School Teacher</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></span></div>
+                  <div class="text">
+                    <p class="mb-4">"The Pet Sitting is a lifesaver! Quick access to emergency information and easy appointment requests. The vets are skilled and took the time to answer all our questions. Our pet is in excellent hands here."</p>
+                    <div class="d-flex align-items-center">
+                    	<div class="user-img" style="background-image: url(images/th.jpeg)"></div>
+                    	<div class="pl-3">
+		                    <p class="name">Jad Hanna</p>
+		                    <span class="position">Teacher</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                	<div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></span></div>
+                  <div class="text">
+                    <p class="mb-4">"Exceptional service! Our fur babies received top-notch care at this Pet Sitting. The website made booking appointments a breeze. The staff was friendly, and genuinely cared for our pets. A great resource for all pet owners!".</p>
+                    <div class="d-flex align-items-center">
+                    	<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+                    	<div class="pl-3">
+		                    <p class="name">Yazan Amer</p>
+		                    <span class="position">Accountant</span>
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 		                  </div>
 	                  </div>
                   </div>

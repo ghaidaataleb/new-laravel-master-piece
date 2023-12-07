@@ -65,7 +65,11 @@ public function appointment(Request $request)
 
   $data = new Appointment;
 
+<<<<<<< HEAD
   $data->services=$request->services;
+=======
+  $data->speciality=$request->speciality;
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 
   $data->name=$request->name;
 
@@ -77,8 +81,13 @@ public function appointment(Request $request)
 
   $data->message=$request->message;
 
+<<<<<<< HEAD
   $data->status='In progress';
 
+=======
+
+  $data->status='In progress';
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
   if(Auth::id())
   {
 
@@ -93,6 +102,37 @@ public function appointment(Request $request)
 } 
 
 
+<<<<<<< HEAD
+=======
+public function myappointment()
+{
+  if(Auth::id())
+  {
+
+    if(Auth::user()->usertype==0)
+    {
+
+      $userid=Auth::user()->id;
+
+      $appoint=appointment::where('user_id',$userid)->get();
+   
+       return view('user.my_appointment',compact('appoint'));
+    }
+
+  
+
+  }
+else
+
+{
+  return redirect()->back();
+}
+
+
+}
+
+
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 public function getItem()
 {
   $doctor = doctor::all();
@@ -101,5 +141,26 @@ public function getItem()
 
 }
 
+<<<<<<< HEAD
+=======
+public function cancel_appoint($id)
+{
+
+    $data=appointment::find($id);
+    $data->delete();
+    return redirect()->back();
+}
+
+
+public function getappointment()
+{
+  $doctor = doctor::all();
+
+  return view('front.pricing',compact('doctor'));
+
+}
+
+
+>>>>>>> b423acd6fc35106447513050a818aba48f5096d2
 }
 
